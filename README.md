@@ -5,6 +5,7 @@
 - 
 - 😄 Pronouns: ...
 - ⚡ My PC:
+- 
      CPU: Intel Core i5 - 12400F OEM
      Motherboard: MSI PRO B760-P DDR4 II
      CPU Fan: DeepCool GAMMAXX 400 EX
